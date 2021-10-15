@@ -1,0 +1,10 @@
+[import](common.lg)
+
+# SendActivity_dStz1H()
+[Activity
+    Text = ${SendActivity_dStz1H_text()}
+]
+
+# SendActivity_dStz1H_text()
+- Enjoy the most immersive gaming experienece with our Xbox, for more information: https://www.xbox.com/
+- Get the latest Xbox console to power your dreams. Choose the perfect console for you : https://www.xbox.com/en-US/consoles

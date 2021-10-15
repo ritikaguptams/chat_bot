@@ -1,0 +1,22 @@
+{
+  "chat_bot.en-us": {
+    "rootDialog": true,
+    "triggers": {
+      "Shopping": [
+        "Shopping.en-us"
+      ],
+      "SurfacePrice": [
+        "Surface.en-us"
+      ],
+      "Xbox": [
+        "Xbox.en-us"
+      ],
+      "Introduction": [
+        "Introduction.en-us"
+      ],
+      "XboxPass": [
+        "XboxPass.en-us"
+      ]
+    }
+  }
+}

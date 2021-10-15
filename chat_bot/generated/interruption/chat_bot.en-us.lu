@@ -1,0 +1,51 @@
+
+> LUIS application information
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 3.2.0
+
+
+> # Intent definitions
+
+# SurfacePrice
+- How much does a Laptop cost?
+- How much does the Surface cost?
+- Please tell the price of a Surface laptop
+
+
+# Shopping
+- What can I buy here?
+- What else is there to shop?
+
+
+# Xbox
+- How is the Xbox?
+- What is Xbox?
+- microsoft gaming console
+
+
+# Introduction
+- Hi!
+- Wazzup?
+- How are you?
+
+
+# XboxPass
+- xbox gold pass
+- Xbox game pass
+
+
+> # Entity definitions
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+

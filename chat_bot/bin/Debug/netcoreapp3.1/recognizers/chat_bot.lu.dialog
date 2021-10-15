@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "LUIS_chat_bot",
+  "recognizers": {
+    "en-us": "chat_bot.en-us.lu",
+    "": "chat_bot.en-us.lu"
+  }
+}

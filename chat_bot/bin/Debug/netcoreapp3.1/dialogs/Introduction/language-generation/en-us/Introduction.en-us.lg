@@ -1,0 +1,10 @@
+[import](common.lg)
+
+# SendActivity_TzLtik()
+[Activity
+    Text = ${SendActivity_TzLtik_text()}
+]
+
+# SendActivity_TzLtik_text()
+- Hi! How can I help you today? 
+- I am doing good, let me know how can I help you today.

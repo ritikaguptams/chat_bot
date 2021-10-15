@@ -1,0 +1,55 @@
+
+# SurfacePrice
+> add some example phrases to trigger this intent:
+> - please tell me the weather
+> - what is the weather like in {city=Seattle}
+
+> entity definitions:
+> @ ml city
+- How much does a Laptop cost?
+- How much does the Surface cost?
+- Please tell the price of a Surface laptop
+
+# Shopping
+> add some example phrases to trigger this intent:
+> - please tell me the weather
+> - what is the weather like in {city=Seattle}
+
+> entity definitions:
+> @ ml city
+- What can I buy here?
+- What else is there to shop?
+
+
+# Xbox
+> add some example phrases to trigger this intent:
+> - please tell me the weather
+> - what is the weather like in {city=Seattle}
+
+> entity definitions:
+> @ ml city
+- How is the Xbox?
+- What is Xbox?
+- microsoft gaming console
+
+# Introduction
+> add some example phrases to trigger this intent:
+> - please tell me the weather
+> - what is the weather like in {city=Seattle}
+
+> entity definitions:
+> @ ml city
+- Hi!
+- Wazzup?
+- How are you?
+
+
+# XboxPass
+> add some example phrases to trigger this intent:
+> - please tell me the weather
+> - what is the weather like in {city=Seattle}
+
+> entity definitions:
+> @ ml city
+- xbox gold pass 
+- Xbox game pass

@@ -1,0 +1,15 @@
+[import](common.lg)
+
+# SendActivity_rPdQ9S()
+[Activity
+    Text = ${SendActivity_rPdQ9S_text()}
+]
+
+# SendActivity_rPdQ9S_text()
+- ```Shopping Options: 
+Xbox
+Surface
+Mice
+Surface Pen
+M365
+Windows```

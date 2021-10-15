@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# SendActivity_nrhzrp()
+[Activity
+    Text = ${SendActivity_nrhzrp_text()}
+]
+
+# SendActivity_nrhzrp_text()
+- Play more wait less with the Xbox Live Gold Pass. Buy now for 10$/month.

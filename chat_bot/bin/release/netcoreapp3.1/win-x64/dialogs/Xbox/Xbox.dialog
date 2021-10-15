@@ -1,0 +1,32 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "SfPjjV",
+    "name": "Xbox",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "m4GFSu"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "dStz1H"
+          },
+          "activity": "${SendActivity_dStz1H()}"
+        }
+      ]
+    }
+  ],
+  "generator": "Xbox.lg",
+  "recognizer": "Xbox.lu.qna",
+  "id": "Xbox"
+}

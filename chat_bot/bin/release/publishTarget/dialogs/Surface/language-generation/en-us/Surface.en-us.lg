@@ -1,0 +1,10 @@
+[import](common.lg)
+
+# SendActivity_xgw7Ua()
+[Activity
+    Text = ${SendActivity_xgw7Ua_text()}
+]
+
+# SendActivity_xgw7Ua_text()
+- The surface laptop costs $1099, head out to the microsoft website to customize yours now! Dont forget the surface pen.
+- Find the perfect laptop for your personlality using https://www.microsoft.com/en-us/surface/devices/help-me-choose

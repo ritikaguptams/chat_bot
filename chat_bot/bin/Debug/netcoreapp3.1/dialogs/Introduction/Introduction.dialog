@@ -1,0 +1,32 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "CqNg3H",
+    "name": "Introduction",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "svEOsy"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "TzLtik"
+          },
+          "activity": "${SendActivity_TzLtik()}"
+        }
+      ]
+    }
+  ],
+  "generator": "Introduction.lg",
+  "recognizer": "Introduction.lu.qna",
+  "id": "Introduction"
+}

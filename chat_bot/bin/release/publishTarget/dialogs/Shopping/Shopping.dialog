@@ -1,0 +1,32 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "ySGT7F",
+    "name": "Shopping",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "8ebg1s"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "rPdQ9S"
+          },
+          "activity": "${SendActivity_rPdQ9S()}"
+        }
+      ]
+    }
+  ],
+  "generator": "Shopping.lg",
+  "recognizer": "Shopping.lu.qna",
+  "id": "Shopping"
+}

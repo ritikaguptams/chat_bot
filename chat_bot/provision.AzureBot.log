@@ -1,0 +1,18 @@
+{
+  "profileName": "AzureBot",
+  "jobId": "485f2a5e-dab1-49aa-a9ed-4fdba6d255d0",
+  "projectId": "65165.25681515828",
+  "time": "2021-10-14T18:03:13.870Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Use the Resource Group: qna-bot at westus",
+    "Deploying Cosmos DB Resource ...",
+    "Deploying Application Insights Resource ...",
+    "Deploying Blob Storage Resource ...",
+    "Deploying Luis Authoring Resource ...",
+    "Deploying Luis Resource ...",
+    "Deploying QnA Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}

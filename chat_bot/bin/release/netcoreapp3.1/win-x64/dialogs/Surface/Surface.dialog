@@ -1,0 +1,32 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "Q6dhuv",
+    "name": "Surface",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "WVtk7N"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "xgw7Ua"
+          },
+          "activity": "${SendActivity_xgw7Ua()}"
+        }
+      ]
+    }
+  ],
+  "generator": "Surface.lg",
+  "recognizer": "Surface.lu.qna",
+  "id": "Surface"
+}
